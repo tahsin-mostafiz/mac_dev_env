@@ -1,0 +1,5 @@
+Package Manager - Homebrew
+Homebrew list - cabextract  mysql, pyqt, sip, heroku-toolbelt, openssl, qt, zeromq
+Use easy_install to install pip globally
+Use pip to install virtualenv and virtualenvwrapper
+Install virtualbox and vagrant from the .dmg files

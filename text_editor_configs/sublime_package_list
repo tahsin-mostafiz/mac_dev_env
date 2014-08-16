@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Djaneiro",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"TrailingSpaces"
+	]
+}
